@@ -1,1 +1,5 @@
-<h1>user page</h1>
+<?php 
+
+//$additional_templates[] = 
+
+ ?>

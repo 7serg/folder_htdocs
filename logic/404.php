@@ -1,2 +1,6 @@
-<h2>404 NOT FOUND</h2>
+<?php 
+$additional_templates[] = TPL_DIR . '404.html';
+
+
+ ?>
 
